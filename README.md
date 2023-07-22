@@ -1,39 +1,86 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# My Personal Presentation 
 
-Welcome,
+## SUMMARY
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Dynamic and trilingual professional with a versatile background in finance, compliance, document control, and customer services, now dedicated to forging a rewarding career in software development. Recent completion of the Software Development course with Code Institute, showcasing proficiency in essential programming languages, frameworks, and technologies sought after in the industry. Recognized for passing all milestone projects with MERIT distinction, demonstrating a keen eye for detail and dedication to excellence.
+<br>
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+Eager to apply my strong quantitative analysis skills and work management expertise to contribute to cutting-edge software projects. Adept in agile methodologies, including the Agile Manifesto, iterative development, and project constraints, enabling effective collaboration and delivering high-quality results in fast-paced environments.
+<br>
 
-## Codeanywhere Reminders
+With a solid foundation in finance and management, I possess a unique blend of skills that facilitate a comprehensive understanding of business requirements, enabling me to create innovative and efficient solutions as a front-end, back-end, or full-stack developer. My proactive and adaptive nature, coupled with exceptional problem-solving abilities, ensures seamless integration into diverse development teams, fostering a collaborative and productive work environment.
+<br>
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Excited to embrace new challenges and continuously expand my technical proficiency, I am poised to contribute my expertise and passion for software development to drive innovation and deliver exceptional user experiences.
 
-`python3 -m http.server`
+EDUCATION
+2014	Bachelor's Degree in Law, LLB (NFQ Level 8) 
+Belo Horizonte, Brazil	FUMEC	
+2016 	Specialist in Corporate Finance (NFQ Level 9)
+Belo Horizonte, Brazil 	Fundação Getulio Vargas 
+2023	Software Development (NFQ Level 6)
+Dublin, Ireland	Code Institute 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Software Development course at Code Institute, gaining expertise in Design Thinking with a different way of thinking, empathy, ideation, prototyping, and usability testing. Proficient in agile methodologies, including the Agile Manifesto, iterative development, project/delivery constraints, common agile practices, user stories, product backlog, timeboxing, and prioritization.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+## EDUCATIONAL BACKGROUND 
 
-`http_server`
+**2014**    
+Bachelor's Degree in Law, LLB (NFQ Level 8) <br>
+Belo Horizonte, Brazil	FUMEC	
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+**2016**	Specialist in Corporate Finance (NFQ Level 9)<br>
+Belo Horizonte, Brazil 	Fundação Getulio Vargas 
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+**2023**	Software Development (NFQ Level 6)<br>
+Dublin, Ireland	Code Institute 
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+Software Development course at Code Institute, gaining expertise in Design Thinking with a different way of thinking, empathy, ideation, prototyping, and usability testing. Proficient in agile methodologies, including the Agile Manifesto, iterative development, project/delivery constraints, common agile practices, user stories, product backlog, timeboxing, and prioritization.
 
-To log into the Heroku toolbelt CLI:
+-------
+## I have completed formal studies in... 
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+-    HTML Essentials
+   - CSS Essentials
+   - IDE and Deployment Essentials
+   - User Experience Essentials
+   - JavaScript Essentials
+   - Comparative Programming Languages Essentials
+   - Python Essentials
+   - Introduction to Automation (Optional)
+   - Introduction to Design Thinking
+   - Principles of Agile Development
+   - Building with Bootstrap
+   - Advanced JavaScript Concepts
+   - Introduction to jQuery
+   - Introduction to APIs
+   - JavaScript Testing With Jest
+   - Introduction to Flask
+   - Database Management Systems
+   - Python Testing
+   - Full Stack Frameworks (FST)
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+   ### and I am actively further developing my expertise in these areas."
 
----
+## Overview of my Professional Background:
 
-Happy coding!
+* **From September of 2013 until October 2016** - Worked as a Tax Lawyer Specialist at Deloitte Touché Tohmatsu and in PAAR consultation handling over 3,000 tax cases and providing timely updates to clients about court developments and procedures. Proficient in work management, delivering accurate and efficient results within a dynamic environment. Managed daily Accounts processes for multinational clients including AngloGold Ashanti, Andrade Gutierrez, ArcelorMittal, and FIAT at Deloitte, accurately processing approximately 400 invoices weekly and effectively handling purchase orders and payment transactions. Demonstrated strong organizational and time management skills.
+
+* **From February 2018 until December 2018** - As a Customer Service Representative at Avis And Budget Car Rental, achieved performance targets and built strong customer relationships, leading to a promotion to Customer Service Representative. Adept in work management, delivering excellent service while meeting sales goals.
+
+* **From January 2019 until December 2020** - As a Content Moderation Analyst at Accenture (Facebook), reviewed flagged accounts for potentially sensitive content, ensuring compliance with policies and regulations. Collaborated with subject matter experts to respond to inquiries and escalations, showcasing exceptional problem-solving abilities.
+
+* **From June 2021 until march 2022** - Contributed as a Quality Assurance Ads Specialist at TikTok (Bytedance), executing quantitative and qualitative analyses of data to deliver insights and drive improvements for ad moderation teams. Played a key role in implementing TikTok in LATAM and BR markets, highlighting adaptability and teamwork skills.
+
+* **From March 2022 until March 2023** - Worked as a Care Advisor at Allianz Partners, responding to queries over phone and email regarding insurance cover, claims, hospitalization, and complaints. Coordinated client hospital admissions, evacuations, and repatriations. Demonstrated excellent customer service and problem-solving skills.
+
+* **From march 2023 -Current** - Contributed as a Mortgage Analyst at BCM Global, specializing in mortgage document verification and compliance. Collaborated with AML team for regulatory requirements and performed thorough checks on submitted documents. Managed a high volume of cases and provided timely feedback to brokers.
+
+## LANGUAGES
+Fluent in English, Portuguese & Spanish | Intermediate level in Italian.  
+
+## HOBBIES
+I like music and instruments I Play the guitar and Im taking keyboard classes. I also Like sports. I’m now practising Padel and football.
+
+## REFERENCES
+Available upon request.
